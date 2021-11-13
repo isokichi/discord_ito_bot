@@ -3,10 +3,10 @@ import discord
 import random
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'ODQ0NTk1NjY5ODk3NTc2NDg4.YKUtAw.VWT7dO5HncBfTZOieuCQIRTLplY'
+TOKEN = ''******************************''
 
 # サーバのメインチャンネル設定によって置き換える
-MAINCHANNEL_ID = 844596635740405823 # 任意のチャンネルID(int)
+MAINCHANNEL_ID = '******************************' # 任意のチャンネルID(int)
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
